@@ -6,6 +6,9 @@ import javax.xml.bind.annotation.XmlRootElement;
  * Created by garciniegas on 18/10/2015.
  
  cambio por defecto 1100 final
+ cambio por defecto 1100 final - ESTE CAMBIO
+ DEBE SER MANEJADO POR MERGER ESTRATEGICO
+ 
  $esta es una linea que estorva por conflictos
  */
 
