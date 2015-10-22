@@ -14,6 +14,7 @@ public class SecureMessage {
     private byte[] content;
     private byte[] key;
 
+	/* constructo por default **/
     public SecureMessage() {
     }
 
