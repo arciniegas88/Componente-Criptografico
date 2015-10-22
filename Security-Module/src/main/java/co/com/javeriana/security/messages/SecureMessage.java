@@ -10,6 +10,10 @@ import javax.xml.bind.annotation.XmlRootElement;
  DEBE SER MANEJADO POR MERGER ESTRATEGICO
  
  $esta es una linea que estorva por conflictos
+ 
+ 454545
+ esta linea es agregada desde el repositorio
+ 
  */
 
 @XmlRootElement(namespace = "http://javeriana.com/aes/secutiry/1.0.0")
