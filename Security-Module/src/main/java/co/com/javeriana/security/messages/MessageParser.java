@@ -8,12 +8,15 @@ import java.io.File;
 import java.io.UnsupportedEncodingException;
 import java.util.UUID;
 
-/**
+/**  este es otro cambio
  * Created by garciniegas on 18/10/2015.
  */
+ 
+ 
+ 
 public class MessageParser {
 
-    // -------------------------------------------
+    //  aqui hay un nuevo cambio-------------------------------------------
 
     public void generateMessage( byte[] signature, byte[] content, byte[]keyCipherContent, String target ) throws JAXBException, UnsupportedEncodingException {
 
