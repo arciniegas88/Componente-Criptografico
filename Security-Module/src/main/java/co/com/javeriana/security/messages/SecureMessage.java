@@ -11,8 +11,13 @@ import javax.xml.bind.annotation.XmlRootElement;
  
  $esta es una linea que estorva por conflictos
  
+ (
  $SE ESPERA USAR ESTA LINEA PARA RESOLVER CONFLICTOS REMOTOS
  CON LA PARTICIPACION DE UN PULL
+
+ 454545
+ esta linea es agregada desde el repositorio
+ ) ahora el problema de resolvio
  
  */
 
